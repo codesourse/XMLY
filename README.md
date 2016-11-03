@@ -13,6 +13,7 @@
 |iCocosLive|https://github.com/al1020119/iCocosLive| 
 |MJRefresh||  
 |MobClick|| 
+|SDWebImage|| 
 
 
 
