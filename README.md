@@ -9,7 +9,12 @@
 |OpenWXPay||   
 |DDLog|| 
 |DPNetwork|https://github.com/dpettigrew/DPNetworking/tree/master/DPNetworking| 
-||| 
+|iCarousel|https://github.com/nicklockwood/iCarousel| 
+|iCocosLive|https://github.com/al1020119/iCocosLive| 
+|MJRefresh||  
+|MobClick|| 
+
+
 
 
 
