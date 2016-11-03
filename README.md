@@ -4,12 +4,12 @@
 |友盟|	
 |TheAmazingAudioEngine|https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine|	
 |GoogleConversionTracking|https://github.com/ArtFeel/GoogleConversionTracking|  
-|GCDAsyncSocket|  
-|AFNetworking|
-|OpenWXPay| 
-|DDLog| 
+|GCDAsyncSocket||  
+|AFNetworking||
+|OpenWXPay|| 
+|DDLog|| 
 |DPNetwork|https://github.com/dpettigrew/DPNetworking/tree/master/DPNetworking| 
-|
+||| 
 
 
 
