@@ -7,7 +7,7 @@
 |GCDAsyncSocket|| 
 |AFNetworking|| 
 |OpenWXPay||   
-|DDLog|| 
+|DDLog|https://github.com/gank0326/DDLog| 
 |DPNetwork|https://github.com/dpettigrew/DPNetworking/tree/master/DPNetworking| 
 |iCarousel|https://github.com/nicklockwood/iCarousel| 
 |iCocosLive|https://github.com/al1020119/iCocosLive| 
